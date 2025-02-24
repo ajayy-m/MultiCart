@@ -1,4 +1,4 @@
-# Shopping Aggregator 🛒  
+# MultiCart 🛒  
 
 A shopping website that integrates multiple e-commerce platforms like **Amazon, Flipkart, Meesho**, and more into a single interface, allowing users to compare prices and find the best deals easily.  
 
